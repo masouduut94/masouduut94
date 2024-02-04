@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=masouduut94" alt="masouduut94" /></a> </p>
 
-- 🔭 I’m currently working on [Monte-Carlo-Tree-Search in Hex c++ version](https://github.com/masouduut94/Monte-Carlo-Tree-Search-Hex-Cpp)
+- 🔭 I’m currently working on [Utilizing ML on volleyball Livestream Analytics](https://github.com/masouduut94/volleyball_analytics)
 
 - 👨‍💻 All of my projects are available at [https://github.com/masouduut94](https://github.com/masouduut94)
 
